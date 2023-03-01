@@ -1,0 +1,19 @@
+{
+  "name": "@simon/login",
+  "version": "2.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "@simon/utils": "workspace:^2.0.0"
+  }
+}
